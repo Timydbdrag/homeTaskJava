@@ -1,4 +1,4 @@
-package main.java.homeTask.seven;
+package homeTask.seven;
 
 public class SolidOfRevolution extends Shape{
     double radius;

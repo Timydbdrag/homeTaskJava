@@ -1,4 +1,4 @@
-package main.java.homeTask.seven;
+package homeTask.seven;
 
 public class Pyramid extends Shape{
 

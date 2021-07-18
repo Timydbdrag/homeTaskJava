@@ -1,7 +1,6 @@
-package main.java.homeTask.fourth;
+package homeTask.fourth;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class App {

@@ -1,4 +1,4 @@
-package main.java.homeTask.five;
+package homeTask.five;
 
 public class Vector {
     private final double x;

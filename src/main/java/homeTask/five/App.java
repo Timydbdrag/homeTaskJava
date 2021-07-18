@@ -1,4 +1,4 @@
-package main.java.homeTask.five;
+package homeTask.five;
 
 import java.util.Arrays;
 

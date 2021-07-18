@@ -1,0 +1,104 @@
+{
+  "batchcomplete": "" ,
+  "continue": {
+    "sroffset": 10 ,
+    "continue": "-||"
+  } ,
+  "query": {
+    "searchinfo": {
+      "totalhits": 3193
+    } ,
+    "search": [
+      {
+        "ns": 0 ,
+        "title": "Java" ,
+        "pageid": 2506 ,
+        "size": 120230 ,
+        "wordcount": 7996 ,
+        "snippet": "<span class=\"searchmatch\">Java</span> — строго типизированный объектно-ориентированный язык программирования общего назначения, разработанный компанией Sun Microsystems (в последующем" ,
+        "timestamp": "2021-07-03T12:44:49Z"
+      } ,
+      {
+        "ns": 0 ,
+        "title": "Java Virtual Machine" ,
+        "pageid": 109573 ,
+        "size": 13079 ,
+        "wordcount": 782 ,
+        "snippet": "<span class=\"searchmatch\">Java</span> Virtual Machine (сокращенно <span class=\"searchmatch\">Java</span> VM, JVM) — виртуальная машина <span class=\"searchmatch\">Java</span> — основная часть исполняющей системы <span class=\"searchmatch\">Java</span>, так называемой <span class=\"searchmatch\">Java</span> Runtime Environment" ,
+        "timestamp": "2021-05-14T04:26:49Z"
+      } ,
+      {
+        "ns": 0 ,
+        "title": "История версий Java SE" ,
+        "pageid": 109799 ,
+        "size": 37513 ,
+        "wordcount": 2343 ,
+        "snippet": "<span class=\"searchmatch\">Java</span> ряд ключевых особенностей. Основными усовершенствованиями <span class=\"searchmatch\">Java</span> 2 по сравнению с <span class=\"searchmatch\">Java</span> 1.0 являются: Swing включен в спецификацию платформы <span class=\"searchmatch\">Java</span> 2" ,
+        "timestamp": "2021-06-07T22:55:26Z"
+      } ,
+      {
+        "ns": 0 ,
+        "title": "JavaScript" ,
+        "pageid": 11922 ,
+        "size": 163637 ,
+        "wordcount": 8818 ,
+        "snippet": "оказали влияние многие языки, при разработке была цель сделать язык похожим на <span class=\"searchmatch\">Java</span>. Языком JavaScript не владеет какая-либо компания или организация, что отличает" ,
+        "timestamp": "2021-07-02T21:44:27Z"
+      } ,
+      {
+        "ns": 0 ,
+        "title": "Сервлет (Java)" ,
+        "pageid": 143637 ,
+        "size": 8496 ,
+        "wordcount": 410 ,
+        "snippet": "Сервлет является интерфейсом <span class=\"searchmatch\">Java</span>, реализация которого расширяет функциональные возможности сервера. Сервлет взаимодействует с клиентами посредством принципа" ,
+        "timestamp": "2021-06-10T10:18:46Z"
+      } ,
+      {
+        "ns": 0 ,
+        "title": "Java Development Kit" ,
+        "pageid": 109741 ,
+        "size": 4710 ,
+        "wordcount": 258 ,
+        "snippet": "разработчика приложений на языке <span class=\"searchmatch\">Java</span>, включающий в себя компилятор <span class=\"searchmatch\">Java</span> (javac), стандартные библиотеки классов <span class=\"searchmatch\">Java</span>, примеры, документацию, различные" ,
+        "timestamp": "2020-12-24T14:22:48Z"
+      } ,
+      {
+        "ns": 0 ,
+        "title": "Java Database Connectivity" ,
+        "pageid": 68435 ,
+        "size": 8471 ,
+        "wordcount": 310 ,
+        "snippet": "(англ. <span class=\"searchmatch\">Java</span> DataBase Connectivity — соединение с базами данных на <span class=\"searchmatch\">Java</span>) — платформенно независимый промышленный стандарт взаимодействия <span class=\"searchmatch\">Java</span>-приложений" ,
+        "timestamp": "2019-06-04T22:48:53Z"
+      } ,
+      {
+        "ns": 0 ,
+        "title": "Scala (язык программирования)" ,
+        "pageid": 162092 ,
+        "size": 30470 ,
+        "wordcount": 1789 ,
+        "snippet": "платформ <span class=\"searchmatch\">Java</span> и JavaScript. По мнению Джеймса Стрэчена[en], создателя языка программирования Groovy, Scala может стать преемником языка <span class=\"searchmatch\">Java</span>. Язык был" ,
+        "timestamp": "2021-01-24T15:56:57Z"
+      } ,
+      {
+        "ns": 0 ,
+        "title": "Java Runtime Environment" ,
+        "pageid": 109579 ,
+        "size": 3284 ,
+        "wordcount": 143 ,
+        "snippet": "<span class=\"searchmatch\">Java</span> Runtime Environment (сокр. JRE; русск. среда выполнения для <span class=\"searchmatch\">Java</span>) — минимальная (без компилятора и других средств разработки) реализация виртуальной" ,
+        "timestamp": "2021-05-08T20:20:37Z"
+      } ,
+      {
+        "ns": 0 ,
+        "title": "Java Persistence API" ,
+        "pageid": 3665133 ,
+        "size": 4987 ,
+        "wordcount": 295 ,
+        "snippet": "<span class=\"searchmatch\">Java</span> Persistence API (JPA) — спецификация API <span class=\"searchmatch\">Java</span> EE, предоставляет возможность сохранять в удобном виде <span class=\"searchmatch\">Java</span>-объекты в базе данных. Существует несколько" ,
+        "timestamp": "2017-09-08T01:28:24Z"
+      }
+    ]
+  }
+}

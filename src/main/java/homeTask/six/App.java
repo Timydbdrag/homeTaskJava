@@ -1,4 +1,4 @@
-package main.java.homeTask.six;
+package homeTask.six;
 
 public class App {
 

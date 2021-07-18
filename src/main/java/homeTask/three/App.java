@@ -1,4 +1,4 @@
-package main.java.homeTask.three;
+package homeTask.three;
 
 import java.util.Arrays;
 import java.util.Scanner;
